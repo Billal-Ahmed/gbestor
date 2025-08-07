@@ -55,7 +55,7 @@ The Baltistan eStore is a web-based platform focused on offering **premium dry f
 
 ## 📁 Project Structure
 
-📁 baltistan-estore/
+baltistan-estore/
 ├── index.html               # Home page
 ├── products.html            # Dry fruits product listing
 ├── minerals.html            # Shilajit and other minerals
