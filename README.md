@@ -1,4 +1,4 @@
-# Baltistan eStore 🌿🛒
+ # Baltistan eStore 🌿🛒
 
 Welcome to the **Baltistan E-Store** – a unique digital marketplace that brings the natural treasures and cultural richness of Baltistan directly to your screen.
 
@@ -95,7 +95,7 @@ We're open to community support and collaboration. If you’re a developer, desi
 
 For inquiries, hotel listings, or bulk product orders:
 
-- 📧 Email: **contact@baltistanestore.com**
+- 📧 Email: **xxxxxx@xxx.com**
 - 📞 WhatsApp: **+92 xxxxxxxxxx**
 - 🌐 Website: [www.xxxxxxxxxxxx.com](http://www.###########.com)
 
