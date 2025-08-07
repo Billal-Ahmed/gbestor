@@ -55,7 +55,26 @@ The Baltistan eStore is a web-based platform focused on offering **premium dry f
 
 ## 📁 Project Structure
 
----
+baltistan-estore/
+├── index.html                 # Home page
+├── products.html              # Dry fruits product listing
+├── minerals.html              # Shilajit and other minerals
+├── product-detail.html        # Detailed product page
+├── cart.html                  # Shopping cart system
+├── contact.html               # Contact or inquiry form
+├── about.html                 # About Baltistan and the store
+├── assets/                    # Static files
+│   ├── css/                   # Stylesheets
+│   │   └── styles.css
+│   ├── js/                    # JavaScript scripts
+│   │   └── main.js
+│   └── images/                # Product images and banners
+│       ├── dry-fruits/
+│       ├── minerals/
+│       └── logo.png
+├── README.md                  # This readme file
+├── LICENSE                    # License file
+└── .gitignore                 # Git ignore settings (if using Git)
 
 
 ---
