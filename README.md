@@ -54,4 +54,20 @@ The Baltistan eStore is a web-based platform focused on offering **premium dry f
 ---
 
 ## 📁 Project Structure
+baltistan-estore/
+│
+├── index.html # Home page
+├── products.html # Product listing page
+├── product-detail.html # Individual product details
+├── minerals.html # Shilajit and mineral products
+├── cart.html # Shopping cart system
+├── contact.html # Contact or inquiry form
+├── assets/
+│ ├── css/
+│ ├── js/
+│ └── images/
+├── README.md
+└── LICENSE
+
+
 
