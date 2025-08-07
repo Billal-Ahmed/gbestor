@@ -92,7 +92,7 @@ We welcome contributions! Here's how you can help:
 
 If you have questions, want to place bulk orders, or wish to partner with us, reach out:
 
-- 📧 **Email**: [bilalahmedskd@gmail.com](mailto:*********@gmail.com)
+- 📧 **Email**: [*********@gmail.com](mailto:*********@gmail.com)
 - 📞 **Phone/WhatsApp** **********:
 
 ---
