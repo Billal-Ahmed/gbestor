@@ -60,17 +60,17 @@ Whether you are a customer looking for authentic products or a hotel owner looki
 ## 📦 Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript (React or plain depending on implementation)
-- **Backend**: Node.js / Django / Flask (depending on your stack)
-- **Database**: MongoDB / MySQL / PostgreSQL
+- **Backend**: Php, Larval (depending on your stack)
+- **Database**:  MySQL / PostgreSQL
 - **Authentication**: JWT / Sessions (as implemented)
-- **Hosting**: Deployed on [e.g., Vercel, Netlify, or a VPS]
+- **Hosting**: Deployed on [e.g., hostinger or a VPS]
 
 ---
 
 ## 🚀 Future Plans
 
 - Integration with **payment gateways** for easier online transactions.
-- **Multilingual support** (Urdu, Balti, English).
+- **Multilingual support** (Urdu, English, Arabic, French).
 - **Booking system** for hotels and guesthouses.
 - **Mobile app** version of the platform.
 
@@ -96,10 +96,10 @@ We're open to community support and collaboration. If you’re a developer, desi
 For inquiries, hotel listings, or bulk product orders:
 
 - 📧 Email: **contact@baltistanestore.com**
-- 📞 WhatsApp: **+92 300 1234567**
-- 🌐 Website: [www.baltistanestore.com](http://www.baltistanestore.com)
+- 📞 WhatsApp: **+92 xxxxxxxxxx**
+- 🌐 Website: [www.xxxxxxxxxxxx.com](http://www.###########.com)
 
 ---
 
-## ❤️ Made with love in Baltistan 🇵🇰
+## ❤️ Made with love in Skardu 🇵🇰
 
