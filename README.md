@@ -54,20 +54,70 @@ The Baltistan eStore is a web-based platform focused on offering **premium dry f
 ---
 
 ## 📁 Project Structure
-baltistan-estore/
-│
-├── index.html # Home page
-├── products.html # Product listing page
-├── product-detail.html # Individual product details
-├── minerals.html # Shilajit and mineral products
-├── cart.html # Shopping cart system
-├── contact.html # Contact or inquiry form
-├── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
-├── README.md
-└── LICENSE
+
+---
+
+
+---
+
+## 🔄 Future Plans
+
+- Add **user login/signup system**
+- Enable **multi-language support** (Urdu, English)
+- Launch **mobile app version**
+- Integrate with **local courier services** for shipping
+- Partner with more **local Baltistani producers**
+
+---
+
+## 🙌 Our Mission
+
+> "To empower the local farmers, miners, and small businesses of Baltistan by providing them access to a global market using the power of technology."
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+1. Fork the repository
+2. Create a new branch (`feature/your-feature`)
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+---
+
+## 📬 Contact
+
+If you have questions, want to place bulk orders, or wish to partner with us, reach out:
+
+- 📧 **Email**: [bilalahmedskd@gmail.com](mailto:bilalahmedskd@gmail.com)
+- 📞 **Phone/WhatsApp**: 0307-2223281
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ❤️ Credits
+
+Special thanks to the people of **Baltistan** for producing such pure and natural goods, and to the local community supporting our mission to bring their products online.
+
+---
+
+## 📸 Sneak Peek (Optional)
+
+> ![Screenshot](assets/images/screenshot-home.png)
+> *Baltistan eStore - Your trusted source for organic dry fruits and natural minerals.*
+
+---
+
+**Join us in promoting local, organic, and natural living! 🌱**
+
 
 
 
